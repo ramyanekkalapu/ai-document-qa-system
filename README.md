@@ -1,3 +1,4 @@
+
 # AI Document Q&A System
 
 A portfolio-safe document question-answering app inspired by enterprise document search workflows.
@@ -63,3 +64,7 @@ Backend runs on `http://localhost:5000` and frontend on `http://localhost:5173`.
 
 ## Notes
 This is a personal portfolio project and not employer code.
+
+# ai-document-qa-system
+RAG-based document Q&amp;A system using LangChain and HuggingFace embeddings, enabling natural language querying over large documents with contextually accurate responses.
+>>>>>>> f600e1a51a921edb8aec23b2aa951ea71052f728
